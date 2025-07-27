@@ -7,7 +7,7 @@
 
 ## 📸 Demo
 
-![screenshot](./static/screenshot.jpg)  
+![Screenshot](static/css/screenshot.jpg)
 (Optional: Add a screenshot showing the UI)
 
 ---
